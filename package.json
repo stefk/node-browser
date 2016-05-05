@@ -1,0 +1,19 @@
+{
+  "name": "noser",
+  "version": "1.0.0",
+  "description": "Text-based browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "commander": "^2.9.0",
+    "htmlparser2": "^3.9.0",
+    "pty.js": "^0.3.0",
+    "superagent": "^1.8.3",
+    "term.js": "0.0.7"
+  }
+}
